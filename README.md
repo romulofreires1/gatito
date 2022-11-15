@@ -9,7 +9,7 @@ Instale my-project com npm
 
 ```bash
   yarn
-  expo start
+  yarn start
 ```
     
 ## Licença
